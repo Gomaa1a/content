@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# content
 
-# Run and deploy your AI Studio app
+My Instagram content workspace. The goal is visibility, not sales: get seen, get invited to events, and inspire people.
 
-This contains everything you need to run your app locally.
+## Structure (fill these in)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1l95XZDyLilWYNgBNZv4tbZmELaKKcWe6
+- `me/voice.md`: how I speak. Paste 10–20 real captions, voice notes or messages so the AI can learn my tone.
+- `me/mind.md`: what I believe, what I'm obsessed with, what I'm against, my story.
+- `me/audience.md`: who I want to reach (the event organisers, peers and people I want to inspire).
+- `ideas/`: content ideas and drafts.
 
-## Run Locally
+## Useful open-source repos
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- [charlie947/social-media-skills](https://github.com/charlie947/social-media-skills): Claude skills for content, including a voice builder.
+- [anthropics/skills](https://github.com/anthropics/skills): official Claude skills, including brand-voice ones.
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills): Reels scripts, carousels, captions, content calendar.
+- [jeevanbavandla/instagram-carousel-skill](https://github.com/jeevanbavandla/instagram-carousel-skill): Instagram carousels.
