@@ -1,17 +1,33 @@
 # content
 
-My Instagram content workspace. The goal is visibility, not sales: get seen, get invited to events, and inspire people.
+My Instagram content workspace for [@byahmedgomaa](https://www.instagram.com/byahmedgomaa/).
+The goal is visibility, not sales: get seen, get invited to events, and inspire
+people.
 
-## Structure (fill these in)
+## Files
 
-- `me/voice.md`: how I speak. Paste 10–20 real captions, voice notes or messages so the AI can learn my tone.
-- `me/mind.md`: what I believe, what I'm obsessed with, what I'm against, my story.
-- `me/audience.md`: who I want to reach (the event organisers, peers and people I want to inspire).
-- `ideas/`: content ideas and drafts.
+- `me/voice.md`: who I am and how I speak. Every skill reads this. Fill in the TODOs.
+- `me/account-audit.md`: where the account stands now and what to do next.
+- `.claude/skills/`: 13 Instagram skills (below).
 
-## Useful open-source repos
+## Skills
 
-- [charlie947/social-media-skills](https://github.com/charlie947/social-media-skills): Claude skills for content, including a voice builder.
-- [anthropics/skills](https://github.com/anthropics/skills): official Claude skills, including brand-voice ones.
-- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills): Reels scripts, carousels, captions, content calendar.
-- [jeevanbavandla/instagram-carousel-skill](https://github.com/jeevanbavandla/instagram-carousel-skill): Instagram carousels.
+From [Jakeschincariol/instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill)
+(MIT, see `.claude/skills/LICENSE-instagram-agent-skill`), adapted so they read
+`me/` and plan for visibility instead of selling. Open this repo in Claude Code
+and use:
+
+| command | use it for |
+| --- | --- |
+| `/ig-plan` | plan the week |
+| `/ig-reel` | turn an idea into a Reel script with a scored hook |
+| `/ig-viral` | find what's working in my niche |
+| `/ig-caption` | check a caption before posting |
+| `/ig-carousel`, `/ig-story` | swipe posts and Stories |
+| `/ig-profile` | score and rewrite my profile |
+| `/ig-comment`, `/ig-reply` | comment on others' posts, reply on mine |
+| `/ig-dm` | collab and event-organiser messages |
+| `/ig-human` | make drafts sound like me, not AI |
+| `/ig-repurpose`, `/ig-audit` | reuse content, review what worked |
+
+Nothing gets posted automatically. The skills write, and I post.
