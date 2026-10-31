@@ -8,6 +8,7 @@ people.
 
 - `me/voice.md`: who I am and how I speak. Every skill reads this. Fill in the TODOs.
 - `me/account-audit.md`: where the account stands now and what to do next.
+- `me/video-analysis.md`: frame-by-frame comparison with @farahkha1ed, plus the plan.
 - `.claude/skills/`: 13 Instagram skills (below).
 
 ## Skills

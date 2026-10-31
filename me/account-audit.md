@@ -1,7 +1,7 @@
 # Account audit: @byahmedgomaa
 
-Snapshot from public data on 31 Oct 2026. I can read numbers and captions,
-but I can't watch the videos, so tell me what the top Reels were about.
+Snapshot from public data on 31 Oct 2026. The first scrape missed the August–October
+Reels; the full list and the video breakdown are in `video-analysis.md`.
 
 ## The numbers
 
@@ -12,7 +12,7 @@ but I can't watch the videos, so tell me what the top Reels were about.
 | Highlights | 2 |
 | Bio | "Interior Architect → AI Automation Builder" |
 | Link | seekersai.org/seekers |
-| Last post | **18 Jul 2026, so 3.5 months of silence** |
+| Last post | 2 Oct 2026 (20 Reels in total; reach falling since July, see video-analysis.md) |
 
 ## Reels, ranked by how far they beat your normal
 
@@ -35,9 +35,9 @@ Your median Reel gets about **2,200 plays**.
 
 ## What this says
 
-1. **You found something on 18 July, then stopped.** A Reel at almost 9x your
-   normal is a real signal, and nothing came after it. The first job is to work
-   out what made it work and make 3–5 more like it.
+1. **You found something on 18 July, then reach fell.** That Reel hit almost 9x
+   your normal, but the August–October Reels dropped from about 1.4k to 543 plays.
+   The full frame-by-frame breakdown is in `video-analysis.md`.
 2. **The 11 July Reel got 47 comments**, about 10x your usual. Something in it
    made people want to answer. Whatever the question or debate was, reuse it.
 3. **July was clearly better than May and June.** All 4 Reels above 1.4x are
